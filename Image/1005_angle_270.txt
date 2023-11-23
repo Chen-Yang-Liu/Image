@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a mix of land covers, with a large area of farmland occupying the central portion. Surrounding this are patches of grassland, especially notable in the upper left quadrant. Buildings are scattered throughout, predominantly along waterways, which snake through the landscape. Barren land is present to the right.
+
+GPT4_Caption_2:
+The map displays a mix of land covers, with a significant expanse of farmland in the central area. Grassland surrounds this expanse, particularly towards the lower section. Buildings are scattered, notably near the water bodies that wind through the scene. Barren land features prominently in the upper sections.
+

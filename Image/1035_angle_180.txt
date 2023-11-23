@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map depicts a region with roads intersecting near the center, extending towards the upper, lower, and right directions. Surrounding areas are predominantly grassland, with patches of forest mainly towards the edges. Buildings are situated at the fringes of the roads, and there is a presence of water bodies at the edges.
+
+GPT4_Caption_1:
+The map shows grassland primarily in the corners with four structures at the edges. A network of thoroughfares extends diagonally, intersecting near the center. Bodies of water are located at the left center edge and lower left corner. A large forested area dominates the map, enveloping the thoroughfares and a central open area.
+

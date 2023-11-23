@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays extensive farmlands occupying most of the central portion, with grassland primarily in the lower-left corner. Buildings are clustered in the lower right, adjacent to which are roads. There's a noticeable water feature in the lower right. Roads traverse the landscape, connecting buildings and intersecting farmlands.
+
+GPT4_Caption_2:
+Farmlands dominate the central area, while grassland is concentrated in the lower right corner. Buildings are grouped in the lower left, with roads weaving through the landscape, connecting these structures and stretching through the farmlands. A water feature forms part of the boundary in the lower right area.
+

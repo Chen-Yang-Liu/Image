@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map predominantly features forest cover with a body of water touching the lower left corner, extending slightly upward. A road traces the outline of the water, separating it from the forested area. The road appears to lead off the map from the lower left corner.
+
+GPT4_Caption_2:
+The map is predominantly covered by forest with a body of water located at the upper left corner. A road outlines the water on its right side and stretches towards the lower left corner of the map.
+

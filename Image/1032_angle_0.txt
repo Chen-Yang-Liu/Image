@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map shows farmland dominates the central area, intersected by a significant road stretching from the upper left to the lower right. Small grassland patches are found in the upper and lower sections. Bodies of water run parallel to the road on both sides, more prominently on the left.
+GPT4_Caption_1:
+The map shows a network of roads intersecting farmlands and grassland. A significant body of water is present near the top, with smaller ones adjacent to the grassland. Roads traverse the area diagonally from the upper left to the lower right, separating the agricultural areas from the grassy region.
+

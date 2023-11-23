@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map features an extensive area of farmland occupying the central and right portions. Several water bodies intersect the landscape, prominently in the lower and upper sections. Buildings are sparsely scattered, with a notable presence towards the lower right. Barren land stretches across the left, while grassland is less prominent.
+
+GPT4_Caption_2:
+The map displays a prominent section of farmland in the central and upper right areas. Bodies of water are situated mainly in the central and upper sections. Buildings are notably positioned towards the bottom. Barren land extensively covers the left side, while grassland is located in the bottom right corner.
+

@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map mainly depicts farmlands occupying the central part with grassland in the upper left corner. Buildings are scattered around the upper edge and near the center. Roads run along the upper edge and curve down to the right side. Water features are located in the lower left corner.
+
+GPT4_Caption_2:
+The map primarily displays farmlands spanning the central area with grassland in the upper left. Buildings are positioned along the upper border and a few are near the center. Roads trace the upper boundary, extending toward the right, and a body of water is situated in the lower left corner.
+

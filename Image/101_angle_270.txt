@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map features farmlands occupying the majority of the space, with a large body of water situated in the upper left area. In the lower section, there is a cluster of buildings adjacent to a small forested region on the right. Grassland can be found in the upper right corner, completing the diverse landscape.
+GPT4_Caption_1:
+The upper area is mostly occupied by water, with a narrow strip of grassland along its edge. Directly below lies farmland dominating the central zone. A cluster of buildings is nestled within the farmland near the lower margin, adjacent to a small patch of forest. The far right is bordered by grassland.
+GPT4_Caption_1:
+A large portion in the center extending to the right side is dominated by farmlands. Towards the left, a significant body of water extends from the upper edge to the center. A cluster of buildings is located towards the lower edge, adjacent to a small forested area on its right. Grassland is present in the upper right corner.

@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The majority of the area is covered by grassland, with a prominent water body situated towards the center. Buildings are located near the center and upper region, while roads are on the right edge. There's a smaller water body in the upper left corner.
+
+GPT4_Caption_2:
+Grassland covers the majority of the area, with a large water body situated towards the lower region. A small cluster of buildings is near the center, and another isolated building is in the upper region. Roads are found along the right edge, and a smaller water body is in the upper left corner.
+

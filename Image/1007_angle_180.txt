@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays extensive grassland covering most of the area. Roads are indicated, snaking through the upper portion. A significant water body is present in the upper left corner, extending towards the center. Forested regions are marked in the upper section, adjacent to the water body on the left.
+
+GPT4_Caption_2:
+The map predominantly features grassland with a prominent water body in the upper left corner. A road network is present along the edge of the water body. Forested areas are situated in the upper left, directly adjacent to the water body.
+

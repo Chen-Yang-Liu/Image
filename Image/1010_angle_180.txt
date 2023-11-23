@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays buildings clustered near the map's center with roads intersecting around them. Farmlands dominate the scene, enveloping the other land covers. Water bodies are evident to the mid-left and lower right, while a small grassland area is visible to the lower left edge. Forests are not present.
+
+GPT4_Caption_2:
+Buildings are centered, with roads encircling and intersecting near them. Farmlands encompass the surroundings, with a water body at the lower left and another towards the upper right corner. A patch of grassland is visible at the lower left edge. No forests are depicted on the map.
+

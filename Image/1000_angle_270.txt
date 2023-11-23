@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows grassland occupying a significant central portion. To the right, there are extensive areas of farmland, while forests are prominent on the left. Water bodies are located towards the upper right corner, and there's a narrow strip of forest separating the water bodies from the farmlands below.
+
+GPT4_Caption_2:
+The map displays grassland dominating the central portion. To the left, there's a large area of forest, while on the right, extensive farmlands are visible. In the upper right section, water bodies are present, with a slim forested strip delineating the farmlands from these water bodies.
+

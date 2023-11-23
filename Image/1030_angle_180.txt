@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map shows a mixture of land cover types. A significant portion of the terrain on the left side is barren. The upper right corner features a forested region that extends inwards with a water body located within it. The central and lower central parts are predominantly grassland, interspersed with buildings scattered mostly along the right edge.
+GPT4_Caption_1:
+The map shows grasslands dominating the central area, with buildings aligned vertically on the right. Water is present in the upper right corner. Barren land is on the left, adjacent to a patch of forest in the upper right section.
+

@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a prominent presence of buildings primarily in the center, extending towards the lower section. Grassland envelops these structures and spans the majority of the map's area. Bodies of water appear scattered, with a notable presence in the upper right. Forest regions are found adjacent to the left of the buildings, and barren land occupies the upper fringe.
+
+GPT4_Caption_2:
+The map shows a concentration of buildings towards the lower section, surrounded by grassland covering most of the map. Bodies of water are visible, notably in the upper right. A strip of forest is adjacent to the buildings on the left, while barren land is depicted at the upper edge of the map.
+

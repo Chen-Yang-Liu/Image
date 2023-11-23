@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+In the upper left, there's a significant area of water adjacent to grassland, with a smaller portion of farmland nearby. The lower left contains a large section of forest. Farmland dominates the right side, with a substantial section in the upper and a smaller section extending towards the bottom.
+
+GPT4_Caption_2:
+In the upper left, there's grassland adjacent to a significant area of water, with forest below. The upper right is dominated by farmland, extending towards the lower right corner. There's also a section of forest in the lower left.
+

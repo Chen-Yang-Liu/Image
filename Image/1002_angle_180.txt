@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a significant presence of grassland, with buildings scattered throughout. Bodies of water are mainly located in the upper sections. Forested areas are spread across the map, with some concentrations on the right side. Grassland dominates the central and lower parts, integrating with other land covers.
+
+GPT4_Caption_2:
+The map displays grassland prominently with clusters of buildings interspersed. A large body of water is noticeable in the upper left, with smaller ones near the center and upper regions. Forested areas are predominantly on the right and lower sections, while a notable expanse of grassland covers the central area.
+

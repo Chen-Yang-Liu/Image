@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map predominantly features forested regions, with a large presence in the central to lower sections. Grassland spans the left boundary, while the upper edge contains barren land interspersed with small clusters of buildings. The top right shows a mix of grassland and barren land, with an isolated presence of buildings.
+
+GPT4_Caption_2:
+The map predominantly features a forested region occupying the central and bottom sections. Grassland is present along the upper left boundary, while barren land stretches across the upper edge. Buildings are scattered across the upper right corner, with a minor presence on the left adjacent to the grassland and barren areas.
+

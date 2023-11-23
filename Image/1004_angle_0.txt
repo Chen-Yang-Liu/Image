@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a network of roads intersecting near the center. A significant body of water extends from the upper section towards the center. Surrounding the roads and water are large expanses of barren land, with patches of farmland primarily in the central area. There are small sections of grassland and forest at the edges.
+
+GPT4_Caption_2:
+The map displays a central intersection of roads with grasslands predominantly in the upper section. Farmlands are mainly located in the central region, while a significant water body stretches from the upper to the lower area. Barren land expanses surround the roads, water, and farmlands, with isolated patches of forest at the edges.
+

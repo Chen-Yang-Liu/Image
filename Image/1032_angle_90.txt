@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map features expanses of farmland with a network of roads intersecting them. Grassland areas are positioned on the margins. Water bodies bend through the landscape, with a notable presence in the upper right. The roads transect the region, with one prominent passage curving from the lower left toward the upper right.
+GPT4_Caption_1:
+The map depicts a region dominated by farmlands interspersed with a network of roads. A water body extends from the upper right towards the center, and grasslands are located on the left side. Roads traverse the map with one running vertically towards the upper direction and another intersecting it horizontally towards the right side.
+

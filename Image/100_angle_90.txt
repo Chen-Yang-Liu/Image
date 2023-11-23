@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays grassland dominating the area, with a body of water located centrally towards the left side, and another small one towards the upper right corner. Buildings are depicted centrally but with a modest presence. Roads stretch across the lower edge, suggesting connectivity to areas outside the map's immediate scope.
+
+GPT4_Caption_2:
+The map shows a large grassland area with a central water body towards the left. A smaller water body is at the upper right. Buildings are centrally placed, scattered sparsely. Roads appear at the bottom, indicating routes extending beyond the map's visible boundaries.
+

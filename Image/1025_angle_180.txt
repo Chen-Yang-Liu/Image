@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays grassland occupying the periphery, with farmlands situated primarily towards the lower section. Roads traverse the upper section horizontally. Buildings are clustered mainly in the lower right area. Forests are scattered throughout, with substantial coverage across the map, interspersed between other land covers. The forested areas are the most prominent feature, indicating a landscape intermixed with natural and human-made elements.
+
+GPT4_Caption_1:
+The map shows a substantial presence of forested regions distributed predominantly across the center. There's grassland occupying the peripheral sections. Buildings are clustered in the lower-right corner. Roads traverse horizontally across the upper section, and farmlands are interspersed mainly in the lower portion of the landscape.

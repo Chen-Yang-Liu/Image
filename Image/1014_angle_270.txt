@@ -1,0 +1,4 @@
+GPT4_Caption_1:
+The map shows a large area of farmlands occupying the majority of the space, extending from the central part to the lower right corner. A region of grassland is found towards the upper left corner. A small patch of forest is situated towards the left edge, near the center. There are also linear features possibly representing roads intersecting the grassland.
+GPT4_Caption_1:
+The map shows extensive farmlands dominating the right side and bottom. There's grassland in the lower middle, near the center. A forested region is located towards the lower left side. The upper portion is primarily grassland with a small forested patch near the upper left edge. Farmlands also extend into the upper left corner.

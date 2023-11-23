@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a considerable amount of grassland, with buildings predominantly clustered in the upper area. There are several bodies of water, mainly observed on the left. Barren land is noticeable in the lower-left corner. A forested region spans a portion of the right edge.
+
+GPT4_Caption_2:
+The map displays a large expanse of grassland with buildings concentrated in the upper central portion. Bodies of water are scattered toward the left side. Barren land is found in the lower left area. A forested region spans along the right side.
+

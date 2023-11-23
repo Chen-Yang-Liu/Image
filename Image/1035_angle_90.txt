@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a network of roads that intersects near the center, extending towards the edges. Forested areas dominate the margins, with a significant portion occupying the upper section. Smaller patches of grassland are interspersed throughout. Buildings are situated at the fringe of the forested areas, primarily in the upper corners. A water body is visible at the lower right corner.
+
+GPT4_Caption_1:
+The map shows a network of roads converging towards the center, with a significant area of grassland surrounding it. There are patches of forest in the upper and lower sections, while bodies of water are visible in the lower right. Buildings are situated at the periphery, with one near the upper edge and another near the right edge.
+

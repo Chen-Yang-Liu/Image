@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a large area of buildings in the upper section, extending towards the center. Sporadically positioned around the buildings are small patches of grassland. A significant expanse of forest lies along the upper edge. Water bodies are visible: one large near the center and smaller ones near the lower section. Barren land occupies the right side, with one isolated patch located towards the lower left.
+
+GPT4_Caption_2:
+The map shows a significant presence of buildings in the left section, with a few isolated grassland areas scattered around. Forests are situated in the lower left corner. Bodies of water are present, with a solitary large one towards the lower right and a few smaller ones in the lower central area. The right portion is predominantly barren land with a small patch of grassland towards the upper right.
+

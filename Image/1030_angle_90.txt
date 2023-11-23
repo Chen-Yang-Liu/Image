@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays a concentration of buildings along the left side. A sizable region of grassland surrounds these structures on three sides. Toward the lower region, forested areas are prominent, with a portion extending into a body of water. The upper right section is largely barren land, with a significant area devoid of vegetation.
+GPT4_Caption_1:
+The map shows a significant presence of buildings clustered on the left side, with a sizable zone of barren land dominating the right. Forested regions are evident toward the lower left corner, featuring a small patch of water within. The rest of the terrain is not distinctly marked with the described land cover indications.
+

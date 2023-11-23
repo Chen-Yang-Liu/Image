@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays a predominant area of forest with patches of grassland interspersed throughout. A significant portion of buildings is clustered in the upper left corner. Roads run vertically along the right side of the map. Farmlands are scattered along the lower and central sections of the forested landscape.
+
+GPT4_Caption_1:
+The map displays a region with scattered forested sections and farmlands spread throughout, with a concentration of buildings clustered towards the upper left edge. A road extends vertically along the right side, separating part of the forest and grassland areas from the rest of the landscape.

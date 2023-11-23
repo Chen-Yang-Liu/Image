@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a large forested region dominating the upper section, extending towards the bottom right. Below it, grassland is visible, adjacent to the lower left corner. Bodies of water are prominent, with a large area in the center and additional smaller sections on the right. Buildings are scattered, mainly concentrated in the lower right area.
+
+GPT4_Caption_1:
+The map displays a large forested region in the upper section, extending to the left. There is grassland in the lower area. Water bodies are central, with some extending towards the right. Buildings are located near the lower right corner. The layout shows a mixed land cover with a substantial forested zone dominating the view.
+

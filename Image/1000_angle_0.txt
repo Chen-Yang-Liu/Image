@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a predominant grassland area in the lower section, with farmlands occupying the center. Bodies of water can be seen primarily in the left section, while forested regions are situated in the lower right portion of the map.
+
+GPT4_Caption_2:
+The upper right section of the map is predominantly grassland, with farmlands occupying the central area. Water bodies are situated primarily on the left side, while a forested region occupies the lower right corner.
+

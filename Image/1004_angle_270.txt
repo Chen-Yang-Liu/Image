@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a layout with grassland dominating the upper and lower regions. Roads traverse the central area horizontally. Bodies of water are present in the central area, clustered together. Barren land occupies the majority, with a significant portion in the right section. Farmland patches are visible towards the lower left. Forested regions are not depicted.
+
+GPT4_Caption_2:
+Upon review, the map displays grassland in the upper right and lower sections, with roads cutting through the central part. There is a large body of water in the center, surrounded by barren land, which is predominant throughout, especially on the right. Farmlands are located in the upper left, and there are no forests represented.
+

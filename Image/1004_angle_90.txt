@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays grassland in the upper region, with roads intersecting centrally and bordering on the right. Water features prominently on the right side. Barren land dominates the left, while farmlands are central, and forested areas are not visible on this map.
+
+GPT4_Caption_2:
+Grasslands are in the upper left corner, with roads intersecting centrally and stretching toward the lower right corner. Water is on the far right, with a significant presence in the lower section. Barren land covers the left side and part of the upper section, while farmlands are central and below the grassland. Forest areas are not represented.
+

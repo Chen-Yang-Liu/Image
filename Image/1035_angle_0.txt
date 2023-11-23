@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a network of roads converging towards the center. There are large forested areas surrounding this network, especially in the upper and lower sections. A significant grassland region extends towards the left. Buildings are scattered predominantly along the roadways. Bodies of water appear towards the upper right and a larger one at the lower edge.
+
+GPT4_Caption_1:
+The map shows a substantial forested area in both the left and right sections. Buildings are scattered along the periphery, mainly in the lower region. A network of roads converges in the center, stretching towards the upper part. Several grassland regions are located in the lower and upper sections. A body of water is present near the upper right and lower left corners.
+

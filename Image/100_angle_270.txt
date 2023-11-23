@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a dominant grassland area with a network of roads along the left edge. A sizeable water body is positioned near the top, while a smaller one is located towards the bottom right corner. Buildings are scattered, with one centrally located and another towards the lower section.
+
+GPT4_Caption_2:
+The map displays a predominant grassland area with a road extending along the left side. A large water body is situated near the upper center, while a smaller one is found at the lower right. Buildings are scattered, one located towards the center and another near the lower edge.
+

@@ -1,0 +1,4 @@
+GPT4_Caption_1:
+The map displays a mix of land cover with dominant expanses of farmlands and grassland. Networks of roads are interspersed throughout. Bodies of water are scattered across, with a notable concentration towards the upper region. Patches of forest are dispersed in the lower region, and there is a significant presence of barren land towards the right.
+GPT4_Caption_1:
+The map displays a mix of land cover types, with extensive grasslands in the lower part, intersected by roads. Water bodies are prominent in the upper section, while forested regions appear scattered, mainly towards the lower part. Barren lands occupy a significant area in the upper right, and farmlands are situated centrally, stretching towards the upper edge of the layout.

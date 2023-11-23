@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a substantial forested region occupying the entire lower section. Above, there are several clusters of buildings interspersed within grassland. Water bodies are scattered predominantly in the central area, while the uppermost part has more grassland. Farmlands are absent from the view.
+
+GPT4_Caption_2:
+The map displays a substantial forested region in the lower section. Buildings are clustered toward the upper right, interspersed within the grassland. Water bodies are found mainly in the central area. The uppermost part features grassland extending toward the left, with no visible farmlands on the map.
+

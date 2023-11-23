@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays a central network of thoroughfares splitting toward the upper section. Surrounding areas are primarily covered with grassland, interspersed with bodies of water, mostly concentrated in the lower half. A considerable forested region occupies the right side, while scattered structures are located mostly toward the edges, with a few near the central areas.
+GPT4_Caption_1:
+The map showcases a central area predominantly covered by grassland, with thoroughfares branching out towards various directions. Buildings are scattered, primarily situated at the periphery. Significant forested regions are apparent, notably towards the upper section. Bodies of water are present, albeit sparse, located towards the corners. The map depicts a mixed-use landscape with natural and man-made features interspersed.
+

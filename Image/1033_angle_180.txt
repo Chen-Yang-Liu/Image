@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays a network of thoroughfares traversing the area, with one prominent passage extending diagonally from the lower left to the upper right. Structures are situated primarily along these routes, with a concentration in the upper section. A body of water is located toward the upper left, and patches of forest are visible on the right. Farmland occupies the lower region.
+GPT4_Caption_1:
+The map shows a large area of grassland with a dense network of roads intersecting at various angles. Buildings are clustered predominantly near the upper boundary, and a notable expanse of water is present toward the upper left. Forested regions are scattered, albeit sparse, with some positioned at the lower right. Farmlands are not visible on this map segment.
+

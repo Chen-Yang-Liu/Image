@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays a network of roads intersecting near the center, with one stretching from the upper to lower regions and another spanning from left to right. Buildings are located near these intersections. Large water bodies are found at both the lower right and upper left corners. Forested areas are scattered throughout, while the surrounding landscape is primarily farmland.
+GPT4_Caption_1:
+Grasslands primarily occupy the layout, with a significant water body at the lower edge and a smaller one at the upper edge. Farms are centrally located. Roads intersect diagonally, dividing the sections, while buildings are sparsely situated at both upper and lower edges. Forests appear as small patches near the roads' intersection and the lower right corner.
+

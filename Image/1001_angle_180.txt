@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a large farmland area occupying most of the upper and left sections. Buildings are clustered in the lower right corner, adjacent to a body of water. Roads bisect the map from the upper left to the lower right. Grassland appears near the upper edge, central to other features.
+
+GPT4_Caption_2:
+The map displays extensive farmlands in the upper section, stretching towards the lower right. Buildings are concentrated in the lower right, flanked by water. Roads intersect the scene, running from the left side towards the upper right. A section of grassland is noticeable at the upper central edge, amidst other land covers.
+

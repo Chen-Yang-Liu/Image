@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a large grassland area dominating the space, with a significant farmland region to its lower left. A sizable forest is located in the upper right, adjacent to the grassland. Below the forest, a body of water is visible, partly surrounded by farmland and forest.
+
+GPT4_Caption_2:
+The map displays a predominant grassland area with a substantial farmland region to its lower left corner. A forested area is situated in the upper right corner, bordering the grassland. Below the forest, there is a water body, partially encircled by farmland on its left and forest on its right.
+

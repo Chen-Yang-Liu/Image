@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The upper left section primarily comprises grassland with buildings. A road travels from the center towards this area. The upper right corner features farmland. At the lower right, more farmland borders water bodies. The lower left includes a water body intersected by roads, adjacent to buildings, and a road leading out of the area to the left.
+
+GPT4_Caption_2:
+Buildings and grassland dominate the upper left, with a road running through the center to the left edge. Farmland occupies the right side, while the bottom features water with roads intersecting and bordering buildings. A road extends from the bottom center towards the lower left.
+

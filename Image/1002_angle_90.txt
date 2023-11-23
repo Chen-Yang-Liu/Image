@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a large area of grassland covering most of the space. There are clusters of buildings primarily toward the edges. Several bodies of water are interspersed, with one large area near the bottom edge. Regions of forest are distributed around the map, with a substantial portion in the upper half.
+
+GPT4_Caption_2:
+The large area of grassland is centrally located, flanked by buildings mostly on the left side and a few on the right. Bodies of water appear, with one significant patch near the lower right. Forest regions are scattered, with a prominent area toward the upper right section of the map.
+

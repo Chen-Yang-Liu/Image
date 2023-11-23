@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows buildings clustered in the lower left area, with grassland surrounding them. Roads intersect the map horizontally near the lower edge and vertically slightly left of center. Water bodies are prominent in the right portion, and farmlands are situated in the upper area of the map.
+
+GPT4_Caption_2:
+The map displays buildings in the upper left corner with grassland predominantly surrounding the central and right portions. Roads run vertically towards the lower right and horizontally along the bottom edge. Water bodies occupy the lower right quadrant, while farmlands stretch across the upper right and central sections.
+

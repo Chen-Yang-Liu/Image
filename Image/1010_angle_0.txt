@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map features a central cluster of buildings with connecting roads that extend towards the lower and upper right. Grassland surrounds the buildings and roads. There are water bodies on the left, with a small patch of forest near the upper left corner, adjacent to water. Farmlands occupy the lower section.
+
+GPT4_Caption_2:
+Buildings occupy the center, surrounded by farmlands, with roads intersecting them. Water bodies are on the upper and lower left, and a small forest patch lies near the upper left corner. Grassland appears to the left of the buildings.
+

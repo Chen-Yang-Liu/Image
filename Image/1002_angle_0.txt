@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map layout shows buildings scattered primarily in central and lower regions, with a large grassland area encompassing them. A vast forest extends from the lower left towards the upper region. Water bodies are interspersed throughout, with a larger one in the upper right corner.
+
+GPT4_Caption_2:
+The map layout features a large forested region stretching from the lower left to the upper edge, with grassland surrounding it. Buildings are concentrated in the central area, with additional isolated structures around. Water bodies are present, notably a sizeable one in the upper right and others dispersed throughout.
+

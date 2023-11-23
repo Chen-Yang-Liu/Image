@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a region with extensive farmlands dominating the view. A series of water bodies are located centrally and stretch towards the lower right, with one isolated near the upper left. Roads weave through the landscape, intersecting near a group of buildings situated centrally. A small forested area is visible in the lower right corner. Grasslands are not depicted.
+
+GPT4_Caption_2:
+The map displays a landscape predominantly covered in farmlands. Buildings are centrally located, connected by roads extending towards the corners. Water bodies are present centrally and stretch towards the lower section¡ªa solitary one in the upper section. A small forested area is at the edge to the right. There are no grasslands shown.
+

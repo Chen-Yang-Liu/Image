@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map features a prominent network of roads bisecting farmlands predominantly located on the lower portion. Forested regions are sparsely scattered, with one significant area in the upper left quadrant. Bodies of water are primarily situated toward the lower right. Barren land is observable near the center, while grasslands are interspersed throughout the landscape, especially in the upper region.
+GPT4_Caption_1:
+The map shows a composition of grassland in the upper area, bordered by forested regions. Roads intersect the map horizontally near the lower section. Bodies of water are scattered predominantly on the right side. There is a considerable extent of barren land occupying central areas, with farmlands situated mainly towards the lower half.
+GPT4_Caption_1:
+The map displays a mixed land cover layout. Grassland is notable in the central portion, with additional patches located toward the upper part. Roads crisscross mainly through the lower section. Large water bodies are prominent on the right, extending toward the center. Barren land is visible toward the upper right, while forests are scattered in the upper part. Farmlands occupy a significant area, mainly concentrated on the left.

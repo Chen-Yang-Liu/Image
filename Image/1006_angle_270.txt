@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map predominantly features forested areas, encompassing most of the space. Along the right edge, there is a significant span of grassland, especially noticeable in the upper and lower corners. A scattering of buildings is visible near the lower right corner. Barren land appears as a thin, snaking form near the right boundary.
+
+GPT4_Caption_2:
+The map is largely covered with forest, particularly prominent in the left and upper sections. Grassland runs along the right edge, curving towards the upper right. Buildings are situated near the lower right corner. Barren land traces a narrow pathway along the rightmost boundary, extending from the upper to the lower edge.
+

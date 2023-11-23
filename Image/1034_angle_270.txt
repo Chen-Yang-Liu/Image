@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a predominance of forested areas, with a significant water body towards the lower region. There are interconnected thoroughfares, with one passing through a forested region. In the midst of these areas, there are patches indicative of grassland and farmland. Sparse regions likely to be urban developments are present. Towards one edge, there's an indication of barren land.
+
+GPT4_Caption_1:
+The map features a prominent forested region occupying the central and right portions. Surrounding this area, particularly towards the lower portion, is water. Roads are visible meandering through and around the forest. A notable cluster of buildings is situated towards the center. Grasslands are found in the upper left, while there is barren land near the center. Farmlands are not visible.
+

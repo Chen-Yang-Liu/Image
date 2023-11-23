@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The upper left quadrant is predominantly covered with forest. Below this, farmlands extend towards the lower edge. In the upper right quadrant, water bodies are interspersed with forest. Below, buildings are concentrated towards the lower right, with some grassland on the left side, adjacent to more water bodies and forest patches.
+
+GPT4_Caption_2:
+Forest dominates the upper left quadrant, extending to the lower left. In the lower left, there's grassland next to the forest. The upper right quadrant features water bodies interspersed with more forest. The lower right has a dense cluster of buildings, with farmlands situated to their left and a water body below.
+

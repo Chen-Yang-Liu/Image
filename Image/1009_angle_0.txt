@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a significant forested region occupying the entire upper right section. Below this area, there's a cluster of buildings adjacent to water bodies. Another concentration of buildings is towards the upper left. The central area mainly comprises grassland with patches resembling farmland, with water bodies interspersed throughout this region.
+
+GPT4_Caption_2:
+The map shows a large forested area in the upper right. Grassland is central with patches of farmland interspersed. Buildings cluster near the upper region and along the left edge, with some closer to the lower left. Various bodies of water are present, mainly on the right and lower sections.
+

@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map depicts a large forested region occupying most of the area. In the lower left, there's a section of grassland adjacent to a smaller area of buildings. Along the left edge, barren land stretches towards the upper left corner from the middle.
+
+GPT4_Caption_2:
+The large forested region dominates, spanning from the upper right across to the left. Grassland is present in the lower left, with buildings near its border. Barren land appears along the left, extending from the middle towards the upper left.
+

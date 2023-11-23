@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map predominantly shows a large forested region occupying the central and upper portions, with grasslands situated predominantly in the lower corners. Barren land is present along the bottom edge, and isolated pockets of buildings are scattered throughout the lower section.
+
+GPT4_Caption_2:
+The map predominantly features a large forested area occupying the central and upper sections. Grasslands are located primarily in the lower corners, with barren land interspersed along the bottom edge. Buildings are clustered in the lower central part.
+

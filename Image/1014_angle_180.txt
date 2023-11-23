@@ -1,0 +1,4 @@
+GPT4_Caption_1:
+The map shows a predominant expanse of farmlands, with grassland occupying the upper section. A small, narrow strip of forest is nestled in the grassland, angled from the upper center towards the right. Farmlands are bordered by grassland to the upper side, while the other boundaries are not visible on the map.
+GPT4_Caption_1:
+The map displays a large area of farmland dominating the view. A smaller section of grassland is situated toward the upper region, with a sliver of forest nestled within the grassland. The boundaries between these regions appear fairly distinct, and there are no specific features indicating elevation or water bodies.

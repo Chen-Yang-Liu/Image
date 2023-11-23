@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a predominance of forested areas, with a network of roads cutting through. Grassland is situated in the upper section, flanked by buildings. Water bodies are scattered, with a large one in the upper left and smaller ones to the right. Farmlands are noticeable at the upper edge, and a patch of barren land is in the middle upper part.
+
+GPT4_Caption_1:
+The map displays a dominant coverage of forested regions with roads traversing through. Buildings are grouped mainly in a central area. Water bodies appear scattered, with a larger one toward the upper area and smaller ones around the central and lower sections. Barren land is noticeable at the upper edge, while farmlands are situated at the upper-right corner. Grassland is not prominently featured.
+

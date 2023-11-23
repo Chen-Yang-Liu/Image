@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a mix of land covers with a forested area dominating the lower left section. Buildings are scattered towards the right, with clusters more concentrated lower down, interspersed with grasslands. Water bodies are prevalent in the upper sections, with one large area and several smaller ones. Farmlands border the right edge.
+
+GPT4_Caption_2:
+The map displays a sizable forested region in the lower left quadrant, with buildings concentrated more in the lower right. Water bodies are mainly in the upper left, with one prominent feature and additional smaller ones. Grasslands are interspersed centrally among other features, and farmlands are along the rightmost edge.
+

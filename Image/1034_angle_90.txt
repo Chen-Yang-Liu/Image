@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map depicts a predominantly forested region, with a network of thoroughfares meandering through it. Adjacent to these roads, there are clusters indicating developed areas. The perimeter features grasslands, particularly in the upper portion. Bodies of water are present, notably toward the lower right. Isolated patches indicative of barren land are scattered, and farmlands are situated primarily in the lower section.
+
+GPT4_Caption_1:
+The map features a large forested region dominating the layout, with grassland areas surrounding it, especially noticeable in the upper and left sections. Roads meander through the scene, with one notable path curving down from the upper section through the forest toward the lower half. Buildings are clustered primarily toward the lower section near water bodies. Barren land stretches across the lower right, while farmlands are scattered, more prevalent in the lower half. Water bodies are found mainly on the right.
+

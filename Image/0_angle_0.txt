@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a large area of farmlands occupying a significant central portion, flanked by grasslands on both sides. A network of roads intersects at the lower left corner alongside a cluster of buildings. A water body is evident near the lower left.
+
+GPT4_Caption_2:
+The map shows a predominant area of farmlands in the central portion. Grasslands are situated on the left side, while a network of roads intersects near the bottom, adjacent to a small concentration of buildings. In the lower left corner, there is a water body.
+

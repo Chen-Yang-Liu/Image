@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map predominantly features forested areas, with a substantial portion in the upper left quadrant. In the upper right corner, there is a segment of a body of water, and a road appears to border this on one side. Grassland is present in a minimal area adjacent to the water body.
+
+GPT4_Caption_2:
+The map is largely covered by forested areas, with a body of water bordering the upper right edge. A road is visible, outlining one side of the water. Grassland is situated adjacent to the water body and road at the upper right corner.
+

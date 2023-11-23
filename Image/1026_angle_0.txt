@@ -1,0 +1,5 @@
+GPT4_Caption_1:
+The map displays a predominance of farmland with interlacing road networks. Grassland patches are visible, with larger sections towards the edges. Bodies of water are situated mainly in the corners with one near the center, adjacent to a road. The roads create boundaries, dividing the landscape into segments.
+
+GPT4_Caption_1:
+The map displays a predominance of farmland with several grassland patches interspersed. Bodies of water are located mainly at the upper right and lower right. Large roads or boundaries cut through the landscape in various directions, segmenting the land cover.

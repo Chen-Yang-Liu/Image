@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a large area of buildings dominating the right side, with a substantial portion of forested area directly adjacent below. Small patches of water bodies are interspersed throughout, mainly in the upper section. In the upper left, there is a portion of barren land, adjacent to a smaller grassland area.
+
+GPT4_Caption_2:
+The map displays a dominant section of buildings on the right side, with a considerable area of forest directly adjacent to the bottom. Several small water bodies are scattered, predominantly in the upper portion. Barren land occupies the upper left corner, near a minor expanse of grassland adjacent to it on the bottom side.
+

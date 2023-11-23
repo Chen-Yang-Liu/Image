@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map displays a large forested area covering most of the space, with a notable water body in the lower right, hugging the edge. A pathway runs alongside the water body's perimeter. Adjacent to the forest, in the lower left, there is a patch of grassland.
+
+GPT4_Caption_2:
+The map shows a dominant forested region occupying the space with a water body and an adjacent road in the bottom right corner. A grassland area is present in the lower left, directly next to the forest.
+

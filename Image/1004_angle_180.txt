@@ -1,0 +1,6 @@
+GPT4_Caption_1:
+The map shows a network of roads running vertically and horizontally, intersecting near the center. There's a large area of farmland in the lower portion, with a forested region above and to the right. Water bodies stretch from the center to the lower right. Barren land occupies the upper half, while grassland is in the upper right corner.
+
+GPT4_Caption_2:
+The map depicts roads intersecting centrally, with prominent farmland in the center extending to the lower right. Forested regions are situated at the top. Bodies of water span from the center to the upper left. Barren land is prominently displayed on the left side, and a patch of grassland is in the lower left corner.
+
